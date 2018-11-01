@@ -4,7 +4,7 @@ Depends on Vundle:
 ```
 git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
-Followed by the following command in vim:
+Install plugins with the following vim command:
 ```
 :PluginInstall
 ```
