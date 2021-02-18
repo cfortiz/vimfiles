@@ -4,7 +4,7 @@ set shiftwidth=4
 set autoindent
 set nu
 syntax enable
-colorscheme carlos
+colorscheme darkhaven
 set nohlsearch
 nnoremap <F3> :set hlsearch!<CR>
 set laststatus=2
